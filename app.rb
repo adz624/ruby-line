@@ -1,5 +1,5 @@
 require 'thrift'
-$:.push('line-protocol/gen-rb')
+$:.push('gen-rb')
 require 'line_main_constants'
 require 'line_constants'
 require 'talk_service'
